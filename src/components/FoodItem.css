@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+.card{
+    width: 25%;
+    margin: 20px;
+    background-color: lightblue;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 5px;
+}
+.card h1{
+  text-align: center;
+  color:#ff9470;
+  font-family: 'Baloo 2', cursive;
+}
+
+
+.ingredients {
+  text-align: center;
+}
+.ingredients ul{
+  text-align: left;
+  font-size: 20px;
+}
+.ingredients h2{
+  color:#ff9470;
+}
+.servings p{
+  text-align: center;
+  font-size: 20px;
+}
+.servings h2{
+  text-align: center;
+  color: #ff9470;
+}
+.instructions {
+  text-align: center;
+}
+.instructions ul{
+  text-align: left;
+  font-size: 20px;
+}
+.instructions h2{
+  color:#ff9470;
+}

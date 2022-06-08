@@ -1,0 +1,26 @@
+ .search{
+    text-align: center;
+    margin-top: 30px;
+} 
+.search input[type = "text"]{
+  padding: 10px;
+  width: 20%;
+  border: none;
+  border-bottom: 2px solid black;
+  outline: none;
+  font-size: 20px;
+   margin-right: 7px;
+   background-color: transparent;
+   color:black;
+}
+
+.search input[type = "button"]{
+    padding: 10px;
+    width: 6%;
+    border: none;
+    font-size: 20px;
+   margin-bottom: 30px; /* input form also take the margin from here: why */
+    border-radius: 5px;
+   cursor: pointer;
+   background-color: #ff9470;
+} 
